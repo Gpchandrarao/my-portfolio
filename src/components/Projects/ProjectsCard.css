@@ -1,0 +1,62 @@
+@import "../../vars.css";
+.projectscard-container {
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  background-color: rgba(252, 166, 31, 0.22);
+  border: 2px solid rgb(252, 166, 31);
+  box-shadow: 0 16px 14px 0 #04152d;
+  padding: 18px 24px;
+  max-width: 345px;
+}
+
+.projectscard-imge {
+  margin-bottom: 26px;
+}
+
+.projectscard-title {
+  font-size: 25px;
+  font-weight: 700;
+}
+.projectscard-description {
+  margin-top: 6px;
+  font-size: 25px;
+  font-weight: 400;
+}
+
+.projectscard-skills {
+  width: 100%;
+  margin-top: 14px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 6px;
+  list-style: none;
+}
+
+.projectscard-skill {
+  font-size: 25px;
+  font-weight: 400;
+  border-radius: 100px;
+  color: #fff;
+  background: rgb(252, 166, 31);
+  padding: 2px 22px;
+}
+
+.projectscard-links {
+  width: 100%;
+  margin-top: 26px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.projectscard-link {
+  text-decoration: none;
+  color: var(--color-text);
+  font-size: 20px;
+  font-weight: 600;
+  border-radius: 100px;
+  background: transparent;
+  border: 2px solid rgb(252, 166, 31);
+  padding: 1px 22px;
+}

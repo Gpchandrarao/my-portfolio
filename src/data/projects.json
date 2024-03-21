@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Jobby APP",
+    "imageSrc": "projects/Jobby-app.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Node", "CSS"],
+    "demo": "https://gpjobby.ccbp.tech/jobs",
+    "source": "https://github.com/Gpchandrarao/jobby-app-2.git"
+  },
+  {
+    "title": "Netflix Clone",
+    "imageSrc": "projects/netflix.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Node"],
+    "demo": "https://netflix-clone-gp.netlify.app/login",
+    "source": "https://github.com/Gpchandrarao/movie-clone-app.git"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
